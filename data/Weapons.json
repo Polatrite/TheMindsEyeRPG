@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Plastic Sword","note":"","params":[0,0,10,0,0,0,0,0],"price":2,"wtypeId":2},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":108,"name":"Plastic Mace","note":"","params":[0,0,6,0,4,0,0,0],"price":2,"wtypeId":3},
+{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Plastic Staff","note":"","params":[0,0,4,0,6,0,0,0],"price":2,"wtypeId":6},
+{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"Plastic Dagger","note":"","params":[0,0,8,0,0,0,2,0],"price":2,"wtypeId":1},
+{"id":5,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":6,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":7,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":8,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":9,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":10,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":11,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":12,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":13,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":14,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":15,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":16,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":17,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":18,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":19,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":20,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]

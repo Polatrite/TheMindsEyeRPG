@@ -1,0 +1,18 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Northern Path","order":1,"parentId":0,"scrollX":1216.5,"scrollY":2578.5},
+{"id":2,"expanded":false,"name":"The Outback War Lands","order":14,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1620},
+{"id":3,"expanded":false,"name":"Northern Midgaard","order":7,"parentId":10,"scrollX":1365.3333333333333,"scrollY":1742.6666666666667},
+{"id":4,"expanded":true,"name":"Ghost Town","order":9,"parentId":0,"scrollX":1638,"scrollY":1042},
+{"id":5,"expanded":false,"name":"Underdark","order":2,"parentId":0,"scrollX":1638,"scrollY":1042},
+{"id":6,"expanded":false,"name":"Drakyri","order":3,"parentId":0,"scrollX":1638,"scrollY":1042},
+{"id":7,"expanded":false,"name":"City of Daishar","order":4,"parentId":0,"scrollX":1228.5,"scrollY":781.5},
+{"id":8,"expanded":false,"name":"Realm of Sadness","order":10,"parentId":4,"scrollX":1638,"scrollY":1042},
+{"id":9,"expanded":false,"name":"Southern Midgaard","order":6,"parentId":10,"scrollX":1228.5,"scrollY":781.5},
+{"id":10,"expanded":true,"name":"Midgaard","order":5,"parentId":0,"scrollX":1228.5,"scrollY":781.5},
+{"id":11,"expanded":false,"name":"East-West Road","order":15,"parentId":0,"scrollX":1638,"scrollY":1026},
+{"id":12,"expanded":false,"name":"Ghost Town Square","order":11,"parentId":4,"scrollX":0,"scrollY":0},
+{"id":13,"expanded":false,"name":"Ghost Town Mansion","order":12,"parentId":4,"scrollX":0,"scrollY":0},
+{"id":14,"expanded":false,"name":"Ghost Town Graveyard","order":13,"parentId":4,"scrollX":0,"scrollY":0},
+{"id":15,"expanded":false,"name":"Midgaard Sewers","order":8,"parentId":10,"scrollX":2649,"scrollY":1614}
+]
