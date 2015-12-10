@@ -3,5 +3,11 @@ null,
 {"id":1,"list":[{"code":224,"indent":0,"parameters":[[255,255,255,170],300,true]},{"code":101,"indent":0,"parameters":["Nature",4,0,1]},{"code":401,"indent":0,"parameters":["Congratulations heroes! You have"]},{"code":401,"indent":0,"parameters":["successfully completed your remort test."]},{"code":316,"indent":0,"parameters":[0,0,1,0,98,false]},{"code":0,"indent":0,"parameters":[]}],"name":"Remort","switchId":1,"trigger":0},
 {"id":2,"list":[{"code":356,"indent":0,"parameters":["MakeMap 1"]},{"code":0,"indent":0,"parameters":[]}],"name":"MakeMap","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":201,"indent":0,"parameters":[0,19,10,5,0,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Teleport to Debug Room","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":7,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":8,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":9,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":10,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
