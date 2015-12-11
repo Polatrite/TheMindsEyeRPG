@@ -1,0 +1,7 @@
+Text colors are:
+
+\C[13] GOSSIP
+\C[14] TELL
+\C[11] SAY
+\C[10] GTELL
+\C[9]  CLAN
