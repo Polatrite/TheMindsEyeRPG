@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"battlerName":"Actor_Polatrite","characterIndex":0,"characterName":"Actor_Polatrite_walking","classId":5,"equips":[1,1,0,1,0],"faceIndex":0,"faceName":"Actor_Polatrite","traits":[],"initialLevel":1,"maxLevel":99,"name":"Polatrite","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":3,"equips":[4,1,0,1,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Renbletz","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor_Elahrai","characterIndex":0,"characterName":"Actor_Elahrai","classId":3,"equips":[4,1,0,1,0],"faceIndex":0,"faceName":"Actor_Elahrai","traits":[],"initialLevel":1,"maxLevel":99,"name":"Elahrai","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"Actor_Mizar","characterIndex":0,"characterName":"Actor_Mizar_walking","classId":2,"equips":[3,0,2,1,4],"faceIndex":0,"faceName":"Actor_Mizar","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mizar Satyr","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"Actor_Cervante_battler","characterIndex":0,"characterName":"Actor_Cervante_walking","classId":8,"equips":[1,0,0,1,4],"faceIndex":0,"faceName":"Actor_Cervante","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cervante","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"Actor_Exion","characterIndex":0,"characterName":"Actor_Exion_walking","classId":1,"equips":[3,0,0,1,0],"faceIndex":0,"faceName":"Actor_Exion","traits":[],"initialLevel":1,"maxLevel":99,"name":"Exion","nickname":"","note":"","profile":""},

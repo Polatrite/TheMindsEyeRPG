@@ -10,28 +10,27 @@ Huh?<br>
 Alas, you cannot go that way.
 
 \c[8]&> SAY Woaah, what the hell? Why can't I see anything? Also, fuck you.\c[0]<br>
-\c[11]You say 'Woaah, what the hell? Why can't I see anything? Also, fuck you.'<br>
-\c[0]The gods have revoked your channel privilages.
+\c[11]You say 'Woaah, what the hell? Why can't I see anything? Also, fuck you.'
+
+\c[0]The gods have revoked your channel privileges.
 
 \c[8]&> fuck\c[0]<br>
-Huh?<br>
-\c[8]&> \!title has been nochanned.\c[0]<br>
+Huh?
+
+\c[8]&> title has been nochanned.\c[0]<br>
 Ok.
 
 \c[8]&> look\c[0]<br>
 MUD School<br>
-This is the entrance to the ROM Mud School. Go north to go<br>
-through mud school. If you have been here before and want
-
-to go directly to the arena, go south. A sign warns 'You may<br>
-not pass these doors once you have passed level 5.'<br>
+This is the entrance to the ROM Mud School. Go north to go through mud school. If you have been here before and want to go directly to the arena, go south. A sign warns 'You may not pass these doors once you have passed level 5.'
 
 \c[8]&> Ooooh snap. This isn't good. Why am I *IN* the MUD?\c[0]<br>
 Huh?
 
-\c[8]&> \!This is going to get old.... can't we switch to graphics, just for the sake of narritive clarity?\c[0]<br>
-Huh?<br>
-\c[8]&> \!autographics on\c[0]
+\c[8]&> This is going to get old.... can't we switch to graphics, just for the sake of narritive clarity?\c[0]<br>
+Huh?
+
+\c[8]&> autographics on\c[0]
 
 
 
@@ -45,13 +44,13 @@ Okay, I'm in the MUD. I can see now. I still can't talk, but at least I can thin
 
 What the hell do I do now?
 
-\>\c[14]Yannick tells you '\<Welcome to the Mind's Eye!  Looks like you've been sucked in from IRL.  \|That's a bummer.  \.You'll have to reach Hero to get out of here.
+\>\c[14]Yannick tells you '\<Welcome to the Mind's Eye!  Looks like you've been sucked in from IRL.  \|That's a bummer.  \!You'll have to reach Hero to get out of here.
 
-\c[14]You tell Yannick 'What? Why? That doesn't make sense.'
+\c[14]\>You tell Yannick '\<What? Why? That doesn't make sense.'
 
-\c[14]Yannick tells you 'The first thing you'll want to do is clear MUD School.  You're already in the entrance, just go north!'
+\c[14]\>Yannick tells you '\<The first thing you'll want to do is clear MUD School.  You're already in the entrance, just go north!'
 
-\c[14]You tell Yannick 'You didn't answer my question...'
+\c[14]\>You tell Yannick '\<You didn't answer my question...'
 
 
 
@@ -60,46 +59,58 @@ What the hell do I do now?
 ----
 OPEN: MUD School Introductions
 
-\c[14]Yannick tells you 'This is the training room.  Here you can improve your stats.'
+\c[14]\>Yannick tells you '\<This is the training room.  Here you can improve your stats.'
 
-\c[14]Yannick tells you 'This is the practice room.  Here you can practice your skills on dummies.'
+\c[14]\>Yannick tells you '\<This is the practice room.  Here you can practice your skills on dummies.'
 
-\c[14]You tell Yannick 'How do you know where I am?'
+\c[14]\>You tell Yannick '\<How do you know where I am?'
 
-\c[14]Yannick tells you 'Careful, up ahead is your first boss fight.  Be ready!'
-\c[14]You tell Yannick 'Seriously, how are you watching me?'
 
-\c[14]Yannick tells you 'Congratulations, you've killed your first boss!  And gained a level!  Wow!  You should probably grind up a few more levels in the Outback War Lands before you v
-\c[14]You tell Yannick 'before I...?'
-\c[14]Yannick tells you 'enture into anything more dangerous. Fucking character limit.'
+---- Before Diploma Beast ----
+
+\c[14]\>Yannick tells you '\<Careful, up ahead is your first boss fight.  Be ready!'
+
+\c[14]\>You tell Yannick '\<Seriously, how are you watching me?'
+
+\c[14]\>Yannick tells you '\<Congratulations, you've killed your first boss!  And gained a level!  Wow!  You should probably grind up a few more levels in the Outback War Lands before you v
+
+\c[14]\>You tell Yannick '\<before I...?'
+
+\c[14]\>Yannick tells you '\<enture into anything more dangerous. Fucking character limit.'
 
 ---- Level 3 ----
 
-\c[14]Yannick tells you 'Congratulations, you've hit level 3!  Now you can use the Gossip and OOC channels to communicate with your fellow players.'
-\c[8]&> gossip Hey guys!\c[0]
+\c[14]\>Yannick tells you '\<Congratulations, you've hit level 3! Now you can use the Gossip and OOC channels to communicate with your fellow players.'
+
+\c[8]&> gossip Hey guys!\c[0]<br>
 The gods have revoked your channel privilages.
 
-\c[14]Yannick tells you 'You should introduce yourself!'
-\c[14]You tell Yannick 'I'm nochanned'
-\c[14]Yannick tells you 'You should really introduce yourself, you're being rude if you don't.'
-\c[14]You tell Yannick 'But I'm nochanned.'
-\c[14]Yannick tells you '... or don't, whatever.  They'll probably gank you for being rude, though.  Just so you know.'
-\c[14]You tell Yannick '...'
+\c[14]\>Yannick tells you '\<You should introduce yourself!'
+
+\c[14]\>You tell Yannick '\<I'm nochanned'
+
+\c[14]\>Yannick tells you '\<You should really introduce yourself, you're being rude if you don't.'
+
+\c[14]\>You tell Yannick '\<But I'm nochanned.'
+
+\c[14]\>Yannick tells you '\<... or don't, whatever.  They'll probably gank you for being rude, though.  Just so you know.'
+
+\c[14]\>You tell Yannick '\<...'
 
 
 ---- Level 7 ----
 
-\c[14]Yannick tells you 'Congratulations on level 7!  You should hit up the Soldiers in the northern section of Outback to get some gear.'
-\c[14]You tell Yannick 'I played this game for like 14 hours straight before I got trapped in it. I think I know what I'm doing.'
-\c[14]Yannick tells you 'Don't go toward the Cavalry though.'
+\c[14]\>Yannick tells you '\<Congratulations on level 7!  You should hit up the Soldiers in the northern section of Outback to get some gear.'
+\c[14]\>You tell Yannick '\<I played this game for like 14 hours straight before I got trapped in it. I think I know what I'm doing.'
+\c[14]\>Yannick tells you '\<Don't go toward the Cavalry though.'
 \c[8]&> ignore yannick\c[0]
 You are now ignoring Yannick.
-\c[14]Yannick tells you 'Oh, and you can head to Drakyri to pick up some pills!  They provide helpful benefits like Haste and Sanctuary.  Drakyri is in a portal on the west side of Outback.'
+\c[14]\>Yannick tells you '\<Oh, and you can head to Drakyri to pick up some pills!  They provide helpful benefits like Haste and Sanctuary.  Drakyri is in a portal on the west side of Outback.'
 
 
 ---- Level 10 ----
 
-\c[14]Yannick tells you 'Congratulations on level 10! Don't forget to visit the trainer and boost your stats!'
+\c[14]\>Yannick tells you '\<Congratulations on level 10! Don't forget to visit the trainer and boost your stats!'
 
 \c[8]&> note to immortal\c[0]
 \c[8]&> note subject Ignore\c[0]
@@ -121,11 +132,67 @@ We don't fix bugs. We make bugs.
 -Appa
 
 
+---- Level 12 ----
+
+\c[14]\>Yannick tells you '\<Congratulations on level 12! Now you can join a clan. You get extra bonuses for being in a clan, including a powerful clan spell! Do 'clan join' to join a clan.'
+
+\c[8]&> north\c[0]<br>
+Are you a pussy? Clan first.
+
+\c[8]&> who\c[0]<br>
+Are you a pussy? Clan first.
+
+\c[8]&> clan join\c[0]<br>
+You must specify a clan to join. Options are: justice vengeance phoenix fate forsaken revolution fringe
+
+\c[8]&> clan join justice\c[0]<br>
+Justice are goody-two-shoes. You don't want to be Justice.
+
+\c[8]&> clan join vengeance\c[0]<br>
+Vengeance are fags. You don't want to be Vengeance.
+
+\c[8]&> clan join revolution\c[0]<br>
+Knock that shit off. That is unacceptable.
+
+\c[8]&> clan join forsaken\c[0]<br>
+Hakuna has turned off recruiting for Forsaken so he can have more time to shag Daemonria.
+
+\c[8]&> clan join phoenix\c[0]<br>
+You must be kidding, you don't have an immortal!
+
+\c[8]&> clan join fate\c[0]<br>
+About damn time.
+You've learned Fool's Luck!
+Fool's Luck will modify your damroll, spelldamroll, and armor by a random amount. Be warned though, sometimes it will roll a negative value!
+You have gained access to the Clan Hall! You can teleport here at any time, however you will have to walk back!
+
+\c[9]\>Fallon clans '\<Welcome to Fate! Let me know if you need anything, I'm here to help!'
+\c[9]\>You clan '\<Can I have a lifecutter?'
+\c[9]\>Fallon clans '\<Do I look like I'm made of time? Go get one your fucking self.'
+New Quest: Go get a fucking lifecutter
+\c[9]\>You clan '\<What the hell? This MUD doesn't have quests.'
+\c[9]\>You clan '\<Wait a second, HOLY SHIT I CAN TALK!'
+\c[8]&> gossip Hey guys!!\c[0]<br>
+The gods have revoked your channel privileges.
+Fuck.
+
+---- Walking south of Midgaard after exiting clan hall ----
+
+\c[14]\>Yannick tells you '\<Congratulations, you've joined a clan!  You'll enjoy many benefits being a member of Fate'
+\c[14]\>Yannick tells you '\<Though, be warned, now that you're a member of a clan, you are now able to engage in PvP combat.'
+\c[14]\>Yannick tells you '\<PK is pretty rare these days, people are more interested in holding hands and making friends than trying to kill each other.'
+\c[14]\>Yannick tells you '\<Yeah... it may be a week or two before you really find yourself in a pfight.'
+\c[14]\>Yannick tells you '\<I have some PVP tips for you, but I'll save them for later, they won't be relevant for a while.'
+\c[31][INFO] You have been KILLED by Triskal!
+\c[14]\>Yannick tells you '\<sigh I miss the good old days, when pk actually happened...'
+\c[8]&> sigh\c[0]<br>
+You sigh.
+
+
+\c[14]\>Yannick tells you '\<'
 
 
 
-
-
-\c[14]Yannick tells you ''
-\c[14]You tell Yannick ''
+\c[14]\>Yannick tells you '\<'
+\c[14]\>You tell Yannick '\<'
 
