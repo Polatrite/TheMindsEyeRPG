@@ -1,0 +1,131 @@
+----
+OPEN: Console Window
+----
+
+You wake up.<br>
+\c[8]&> \!Woaah, what the hell? Why can't I see anything?\c[0]<br>
+Huh?<br>
+
+\c[8]&> s Woaah, what the hell? Why can't I see anything?\c[0]<br>
+Alas, you cannot go that way.
+
+\c[8]&> SAY Woaah, what the hell? Why can't I see anything? Also, fuck you.\c[0]<br>
+\c[11]You say 'Woaah, what the hell? Why can't I see anything? Also, fuck you.'<br>
+\c[0]The gods have revoked your channel privilages.
+
+\c[8]&> fuck\c[0]<br>
+Huh?<br>
+\c[8]&> \!title has been nochanned.\c[0]<br>
+Ok.
+
+\c[8]&> look\c[0]<br>
+MUD School<br>
+This is the entrance to the ROM Mud School. Go north to go<br>
+through mud school. If you have been here before and want
+
+to go directly to the arena, go south. A sign warns 'You may<br>
+not pass these doors once you have passed level 5.'<br>
+
+\c[8]&> Ooooh snap. This isn't good. Why am I *IN* the MUD?\c[0]<br>
+Huh?
+
+\c[8]&> \!This is going to get old.... can't we switch to graphics, just for the sake of narritive clarity?\c[0]<br>
+Huh?<br>
+\c[8]&> \!autographics on\c[0]
+
+
+
+
+
+----
+OPEN: Autographics On
+----
+
+Okay, I'm in the MUD. I can see now. I still can't talk, but at least I can think without using a command interpreter.
+
+What the hell do I do now?
+
+\>\c[14]Yannick tells you '\<Welcome to the Mind's Eye!  Looks like you've been sucked in from IRL.  \|That's a bummer.  \.You'll have to reach Hero to get out of here.
+
+\c[14]You tell Yannick 'What? Why? That doesn't make sense.'
+
+\c[14]Yannick tells you 'The first thing you'll want to do is clear MUD School.  You're already in the entrance, just go north!'
+
+\c[14]You tell Yannick 'You didn't answer my question...'
+
+
+
+
+
+----
+OPEN: MUD School Introductions
+
+\c[14]Yannick tells you 'This is the training room.  Here you can improve your stats.'
+
+\c[14]Yannick tells you 'This is the practice room.  Here you can practice your skills on dummies.'
+
+\c[14]You tell Yannick 'How do you know where I am?'
+
+\c[14]Yannick tells you 'Careful, up ahead is your first boss fight.  Be ready!'
+\c[14]You tell Yannick 'Seriously, how are you watching me?'
+
+\c[14]Yannick tells you 'Congratulations, you've killed your first boss!  And gained a level!  Wow!  You should probably grind up a few more levels in the Outback War Lands before you v
+\c[14]You tell Yannick 'before I...?'
+\c[14]Yannick tells you 'enture into anything more dangerous. Fucking character limit.'
+
+---- Level 3 ----
+
+\c[14]Yannick tells you 'Congratulations, you've hit level 3!  Now you can use the Gossip and OOC channels to communicate with your fellow players.'
+\c[8]&> gossip Hey guys!\c[0]
+The gods have revoked your channel privilages.
+
+\c[14]Yannick tells you 'You should introduce yourself!'
+\c[14]You tell Yannick 'I'm nochanned'
+\c[14]Yannick tells you 'You should really introduce yourself, you're being rude if you don't.'
+\c[14]You tell Yannick 'But I'm nochanned.'
+\c[14]Yannick tells you '... or don't, whatever.  They'll probably gank you for being rude, though.  Just so you know.'
+\c[14]You tell Yannick '...'
+
+
+---- Level 7 ----
+
+\c[14]Yannick tells you 'Congratulations on level 7!  You should hit up the Soldiers in the northern section of Outback to get some gear.'
+\c[14]You tell Yannick 'I played this game for like 14 hours straight before I got trapped in it. I think I know what I'm doing.'
+\c[14]Yannick tells you 'Don't go toward the Cavalry though.'
+\c[8]&> ignore yannick\c[0]
+You are now ignoring Yannick.
+\c[14]Yannick tells you 'Oh, and you can head to Drakyri to pick up some pills!  They provide helpful benefits like Haste and Sanctuary.  Drakyri is in a portal on the west side of Outback.'
+
+
+---- Level 10 ----
+
+\c[14]Yannick tells you 'Congratulations on level 10! Don't forget to visit the trainer and boost your stats!'
+
+\c[8]&> note to immortal\c[0]
+\c[8]&> note subject Ignore\c[0]
+\c[8]&> note + Ignore doesn't seem to be working. Tells still come through from people you're ignoring.\c[0]
+\c[8]&> note post\c[0]
+Note posted.
+
+*time passes*
+
+You've got mail!
+
+[Re: Ignore]
+[From: Apparition]
+[To: You]
+
+You must be new here.
+We don't fix bugs. We make bugs.
+
+-Appa
+
+
+
+
+
+
+
+\c[14]Yannick tells you ''
+\c[14]You tell Yannick ''
+
