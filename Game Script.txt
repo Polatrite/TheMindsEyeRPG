@@ -1,4 +1,65 @@
 ----
+OPEN: Attic Game Room
+----
+
+I wonder what is up here...
+
+Woah, they have a game room!<br>
+Check out all this stuff!
+
+This is epic.
+
+I'm pretty sure I am not even old enough to legally use this.
+
+Look at all this stuff! You know how many pairs of Vans I could buy if I sold these?
+
+Apparently they don't come up here often, the clock isn't working.
+Or maybe they all just have smartphones.
+
+Let me open up this window.
+
+Augh, the Daystar, it burns!
+
+What is on this computer? This looks ancient!
+
+The text is just scrolling by...
+
+"You are hungry."
+"You are thirsty."
+
+That doesn't sound so good.
+
+&> eat
+Eat what?
+
+&> eat hamburger
+You can't find that.
+
+&> what do i have
+Huh?
+
+&> help
+This MUD supports the following commands and many more:
+south north west east up down open close enter get drop wear remove inventory eat drink quaff zap brandish kill flee backstab say yell gossip save quit
+
+Ummm... let's try this.
+
+&> inventory
+You are carrying:
+( 3) a chicken pot pie
+     a Map of Midgaard
+( 2) a potion of cure critical wounds
+     a dark helm
+     (Humming) a lifecutter
+
+&> eat pot pie
+You eat a chicken pot pie.
+You are no longer hungry.
+
+Fadeout
+
+
+----
 OPEN: Console Window
 ----
 
@@ -121,13 +182,9 @@ Note posted.
 
 You've got mail!
 
-[Re: Ignore]
-[From: Apparition]
-[To: You]
-
-You must be new here.
-We don't fix bugs. We make bugs.
-
+[Re: Ignore]<br>[From: Apparition]<br>[To: You]<br>
+<br>
+You must be new here.<br>We don't fix bugs. We make bugs.<br>
 -Appa
 
 
