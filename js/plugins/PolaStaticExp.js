@@ -5,7 +5,7 @@
 };*/
 
 Game_Actor.prototype.expForLevel = function(level) {
-    return 1500 * level;
+    return 1000 * level;
 };
 
 BattleManager.makeRewards = function() {
@@ -78,7 +78,7 @@ Game_Party.prototype.getAverageLevel = function() {
     	level += actors[i]._level;
     }
     level /= actors.length;
-    return level;
+    return Math.floor(level);
 }
 
 Game_Troop.prototype.getAverageLevel = function(troopId) {
@@ -91,7 +91,7 @@ Game_Troop.prototype.getAverageLevel = function(troopId) {
 		console.log("Troop added " + level);
     }
     level /= enemies.length;
-    return level;
+    return Math.round(level);
 };
 
 
