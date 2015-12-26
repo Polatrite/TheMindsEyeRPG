@@ -1653,6 +1653,11 @@ Game_Battler.prototype.ctbTickValue = function() {
     var a = this;
     var user = this;
     var subject = this;
+    /*var speedMod = 0;
+    var skill = this._lastBattleSkill;
+    if(skill && skill.isSkill()) {
+    	speedMod = $dataSkills[skill._itemId].speed;
+    }*/
     this._ctbTickValue = eval(Yanfly.Param.CTBPerTick);
     return this._ctbTickValue;
 };
