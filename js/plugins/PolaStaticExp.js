@@ -87,7 +87,10 @@ Game_Troop.prototype.getAverageLevel = function(troopId) {
     for (var i = 0; i < enemies.length; i++) {
     	var dataEnemy = $dataEnemies[enemies[i]._enemyId];
 		var config = MRP.OptionParser.extractFirstOfType(dataEnemy.note, "Level");
-		level += config.args[0];
+        if(config.args && config.args.length > 0) 
+		    level += config.args[0];
+        else
+            level += $gameParty.getAverageLevel();
 		console.log("Troop added " + level);
     }
     level /= enemies.length;
