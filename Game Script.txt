@@ -20,40 +20,41 @@ Let me open up this window.
 
 Augh, the Daystar, it burns!
 
-What is on this computer? This looks ancient!
+What is installed on this computer? This looks ancient!<br>
+\|zMUD?? \.Sounds dirty.
 
 The text is just scrolling by...
 
-"You are hungry."
+"You are hungry."<br>
 "You are thirsty."
 
 That doesn't sound so good.
 
-&> eat
+\c[8]&> \!eat\c[0]<br>
 Eat what?
 
-&> eat hamburger
+\c[8]&> \!eat hamburger\c[0]<br>
 You can't find that.
 
-&> what do i have
+\c[8]&> \!what do i have\c[0]<br>
 Huh?
 
-&> help
+\c[8]&> \!help\c[0]<br>
 This MUD supports the following commands and many more:
 south north west east up down open close enter get drop wear remove inventory eat drink quaff zap brandish kill flee backstab say yell gossip save quit
 
 Ummm... let's try this.
 
-&> inventory
-You are carrying:
-( 3) a chicken pot pie
-     a Map of Midgaard
-( 2) a potion of cure critical wounds
-     a dark helm
-     (Humming) a lifecutter
+\c[8]&> \!inventory\c[0]<br>
+You are carrying:<br>
+( 3) a chicken pot pie<br>
+     a Map of Midgaard<br>
+( 2) a potion of cure critical wounds<br>
+     a dark helm<br>
+     (Humming) a lifecutter<br>
 
-&> eat pot pie
-You eat a chicken pot pie.
+\c[8]&> \!eat pot pie\c[0]<br>
+You eat a chicken pot pie.<br>
 You are no longer hungry.
 
 Fadeout
