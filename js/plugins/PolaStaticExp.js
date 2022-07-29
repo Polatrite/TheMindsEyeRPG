@@ -55,6 +55,8 @@ BattleManager.makeRewards = function() {
     else
         baseExp = 0;
 
+	baseExp = Math.round(baseExp * 1.4);
+
     if(partyLevel < 6) {
     	baseExp = 10 * baseExp / (partyLevel + 4);
     }
